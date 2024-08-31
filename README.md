@@ -16,6 +16,8 @@ Your challenge is to build a One-to-One Chat Web App with Firebase Realtime Data
 
 You can use any tools you like to help you complete the assessment. So, if you have something you'd like to practice, feel free to give it a go.
 
+If you come across any design elements in the design file that are not specified in the requirements, you are only expected to create the UI. Developing functionality for these elements is not necessary.
+
 Requirements: 
 
 - Use Firebase Auth for login/register
